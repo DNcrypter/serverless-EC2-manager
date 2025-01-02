@@ -15,7 +15,7 @@ In some companies, there is no need to run their EC2 instances 24/7; they requir
 ![a1](https://github.com/DNcrypter/serverless-EC2-manager/blob/main/images/a1.png)
 
 
-![a2](https://github.com/serverless-EC2-manager/blob/main/images/a2.png)
+![a2](https://github.com/DNcrypter/serverless-EC2-manager/blob/main/images/a2.png)
 
 
 ![a3](https://github.com/serverless-EC2-manager/blob/main/images/a3.png)
