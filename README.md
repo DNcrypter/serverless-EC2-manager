@@ -188,6 +188,6 @@ Now again , go to the Lambda console and then test the code.
 9. Now, we have successfully created two schedules: one to start the instance every day at 8:00 AM and the other to stop the instance every day at 5:00 PM.
 
 
-![b11](https://github.com/DNcrypter/serverless-EC2-manager/images/b11.png)
+![b11](https://github.com/DNcrypter/serverless-EC2-manager/blob/main/images/b11.png)
 
 
